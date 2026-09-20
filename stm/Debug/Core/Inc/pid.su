@@ -1,0 +1,2 @@
+../Core/Inc/pid.c:10:6:PID_Init	32	static
+../Core/Inc/pid.c:23:7:PID_Compute	48	static
